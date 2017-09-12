@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "670294918945",
+    "firebase_url": "https://droid-f2bf1.firebaseio.com",
+    "project_id": "droid-f2bf1",
+    "storage_bucket": "droid-f2bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670294918945:android:c1eb1222c330f5e1",
+        "android_client_info": {
+          "package_name": "training.edu.droidbountyhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670294918945-c2bnevhtu90p6kfadieu6jlsbmkjd45l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnX0kP3nTfSVViCwSv5eE0G51doxs7akQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
